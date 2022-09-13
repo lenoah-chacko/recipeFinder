@@ -20,3 +20,19 @@
         }
         .row.content {height:auto;}
       }
+      #food {
+        width: 50%;
+        display: table;
+        margin: 0px auto 20px;
+      }
+      #cs {
+        width: 40%;
+        display: table;
+        margin: 0px auto 20px;
+      }
+      #contacts {
+        width: 40%;
+        display: table;
+        margin: 40px auto 20px;
+      }
+      
